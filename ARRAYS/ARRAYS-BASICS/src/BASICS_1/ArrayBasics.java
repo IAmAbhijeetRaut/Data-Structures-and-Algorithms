@@ -18,13 +18,13 @@ public class ArrayBasics {
         // initialize second element
         array_1[1] = 200;
         // and so forth
-        //initializing the inttger array
+        //initializing the integer array
         array_1[2] = 300;
         array_1[3] = 400;
         array_1[4] = 500;
         array_1[5] = 600;
 
-        //Declaration and Intitialization at the same time
+        //Declaration and Initialization at the same time
         int[] array_2 = new int[10];
         String[] array_3 = new String[10];
 
@@ -46,6 +46,14 @@ public class ArrayBasics {
 
         //Shortcut syntax to create and initialize an array
         int[] array_4 = {1,2,3,4,5,6,7,8,9,10};
+
+        //looping through the array
+        //array.length property is used to find the size or to find the total elements in array
+        //Remember the size of the array is always 1 greater than the last index value because index starts from '0'
+        //So while traversing the array we need to traverse till :  i < array.length  OR  i <= array.length-1
+        for (int i = 0; i < array_4.length ; i++) {
+            System.out.printf("\narray_4 || array[%d] = %d",i,array_4[i]);
+        }
 
 
     }
