@@ -1,0 +1,22 @@
+Below Problems were taken from Java Guides -> https://www.javaguides.net/p/java-string-api-guide.html
+String Programs in Java with Output
+Java program to Count Number of Duplicate Words in String
+Java Program to Count Number of Words in Given String
+Java Program to Count the Number of Occurrences of Substring in a String
+Java Program to Count the Occurrences of Each Character in String
+Java Program to Merge two String Arrays
+Java Program to Remove Duplicate Words from String
+Java Program to Reverse a String(5 ways)
+Java Program to Reverse Each Word of a String
+Java Program to Swap Two Strings
+How to Check if the String Contains only Digits
+How to Check if the String Contains only Letters
+How to Check If the String Contains Only Letters or Digits
+Java Program to Check if Input String is Palindrome
+Java Program to Find all Permutations of String
+How to Remove or Trim All White Spaces from a String in Java
+How to Remove Leading and Trailing White Space From a String in Java
+Java Program to Count Duplicate Characters in a String
+Remove Character from String in Java (Java 8)
+Java Program to Count Vowels and Consonants in a String (Java 8)
+4 Ways to Find First Non-Repeated Character in String in Java
